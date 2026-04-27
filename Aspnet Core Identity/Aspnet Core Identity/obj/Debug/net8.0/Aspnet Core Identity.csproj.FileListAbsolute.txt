@@ -1,0 +1,29 @@
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\appsettings.Development.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\appsettings.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\Aspnet Core Identity.staticwebassets.runtime.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\Aspnet Core Identity.staticwebassets.endpoints.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\Aspnet Core Identity.exe
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\Aspnet Core Identity.deps.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\Aspnet Core Identity.runtimeconfig.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\Aspnet Core Identity.dll
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\bin\Debug\net8.0\Aspnet Core Identity.pdb
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.AssemblyInfoInputs.cache
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.AssemblyInfo.cs
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.csproj.CoreCompileInputs.cache
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.MvcApplicationPartsAssemblyInfo.cache
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.RazorAssemblyInfo.cache
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.RazorAssemblyInfo.cs
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\scopedcss\bundle\Aspnet Core Identity.styles.css
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\scopedcss\projectbundle\Aspnet Core Identity.bundle.scp.css
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\staticwebassets.build.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\staticwebassets.development.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.dll
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\refint\Aspnet Core Identity.dll
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.pdb
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.genruntimeconfig.cache
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\ref\Aspnet Core Identity.dll
