@@ -10,15 +10,30 @@
             <h1 class="mb-3">Register</h1>
 
             <form method="post">
-                <div asp-validation-summary="All" class="text-danger">
+                <div asp-validation-summary="All" class="text-danger"></div>
 
+                <div class="mb-3">
+                    <label asp-for="Model.Email" class="form-label">Email Address</label>
+                    <input asp-for="Model.Email" class="form-control" />
+                    <span asp-validation-for="Model.Email" class="text-danger"></span>
                 </div>
+
+                <div class="mb-3">
+                    <label asp-for="Model.Password" class="form-label">Password</label>
+                    <input asp-for="Model.Password" type="password" class="form-control" />
+                    <span asp-validation-for="Model.Password" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Model.ConfirmPassword" class="form-label">Confirm Password</label>
+                    <input asp-for="Model.ConfirmPassword" type="password" class="form-control" />
+                    <span asp-validation-for="Model.ConfirmPassword" class="text-danger"></span>
+                </div>
+                
                 <div>
-
+                    <button type="submit" class="btn btn-primary">Register</button>
                 </div>
-                <div>
-
-                </div>
+                
             </form>
         </div>
     </div>
