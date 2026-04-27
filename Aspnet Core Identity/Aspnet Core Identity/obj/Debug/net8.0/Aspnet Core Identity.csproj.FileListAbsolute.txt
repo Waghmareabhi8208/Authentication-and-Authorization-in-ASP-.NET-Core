@@ -27,3 +27,4 @@ D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet C
 D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.pdb
 D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.genruntimeconfig.cache
 D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\ref\Aspnet Core Identity.dll
+D:\ConsulencyPractise\Authentication-and-Authorization-in-ASP-.NET-Core\Aspnet Core Identity\Aspnet Core Identity\obj\Debug\net8.0\Aspnet Core Identity.sourcelink.json
