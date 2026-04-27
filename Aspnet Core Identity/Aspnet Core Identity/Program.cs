@@ -1,3 +1,7 @@
+using Aspnet_Core_Identity.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
 namespace Aspnet_Core_Identity
 {
     public class Program
@@ -5,6 +9,15 @@ namespace Aspnet_Core_Identity
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            //1. Add DbContext
+            builder.Services.AddDbContext<AuthDbContext>(options =>
+                    options.UseSqlServer(
+                        builder.Configuration.GetConnectionString("AuthConnectionString")
+                    ));
+
+            // 2. Add Identity 
+            builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddEntityFrameworkStores<AuthDbContext>();
 
             // Add services to the container.
             builder.Services.AddRazorPages();
@@ -23,6 +36,8 @@ namespace Aspnet_Core_Identity
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
