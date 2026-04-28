@@ -19,6 +19,11 @@ namespace Aspnet_Core_Identity
             // 2. Add Identity 
             builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddEntityFrameworkStores<AuthDbContext>();
 
+            builder.Services.ConfigureApplicationCookie(config =>
+            {
+                config.LoginPath = "/Login";
+            });
+
             // Add services to the container.
             builder.Services.AddRazorPages();
 
