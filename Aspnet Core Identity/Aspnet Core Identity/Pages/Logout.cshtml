@@ -1,0 +1,24 @@
+﻿@page
+@model Aspnet_Core_Identity.Pages.LogoutModel
+
+<form method="post">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-sm-12 col-md-6 col-lg-4 text-center">
+
+                <p class="mb-4">Are you sure you want to logout?</p>
+
+                <div class="d-flex justify-content-center gap-3">
+                    <button type="submit" class="btn btn-primary" asp-page-handler="Logout">
+                        Yes
+                    </button>
+
+                    <button type="submit" class="btn btn-outline-secondary" asp-page-handler="DontLogout">
+                        No
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</form>
